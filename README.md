@@ -96,11 +96,14 @@ A carry-lookahead adder is designed to reduce the propagation delay associated w
 5. **Verification:**
    - Perform thorough verification using Siemens simulation tools to ensure the layout matches the schematic and functions correctly.
    - DRC:
-   - ![image](https://github.com/karimmahmoud22/Ripple-Adder-Carry-Look-Ahead-Adder-/assets/82693464/08a12fc4-dca5-4327-9417-b594ba1ee6ee)
+   
+   ![image](https://github.com/karimmahmoud22/Ripple-Adder-Carry-Look-Ahead-Adder-/assets/82693464/08a12fc4-dca5-4327-9417-b594ba1ee6ee)
    - LVS:
-   - ![image](https://github.com/karimmahmoud22/Ripple-Adder-Carry-Look-Ahead-Adder-/assets/82693464/69364cd9-2b92-4b56-ad58-f7b6e9338ba9)
+   
+   ![image](https://github.com/karimmahmoud22/Ripple-Adder-Carry-Look-Ahead-Adder-/assets/82693464/69364cd9-2b92-4b56-ad58-f7b6e9338ba9)
    - Parasitic Extraction:
-   - ![image](https://github.com/karimmahmoud22/Ripple-Adder-Carry-Look-Ahead-Adder-/assets/82693464/5b3ae7ec-513b-4bcb-9193-5cf6319a850d)
+   
+   ![image](https://github.com/karimmahmoud22/Ripple-Adder-Carry-Look-Ahead-Adder-/assets/82693464/5b3ae7ec-513b-4bcb-9193-5cf6319a850d)
 
 ## Contributors
 <table>
